@@ -10,6 +10,6 @@ In the project directory, you can run:
 
 *Javascript de React kütüphanesi kullanılarak dinamik ve responsive bir restoran web sitesi tasarlandı.
 *React Hooks yapılarından "useState && useEffect" fonksiyonları kullanılarak React DOM üzerinde çalışmalar yapıldı.
-*Responsive bir görünüm için CSS de media etiketleri çağrılarak"Bilgisayar && Tablet && Telefon" ekranlarda tarayıcıda uygum saplayacak bir görünüm kazandırıldı.
+*Responsive bir görünüm için CSS de media etiketleri çağrılarak"Bilgisayar && Tablet && Telefon" ekranlarda tarayıcıda uygum sağlayacak bir görünüm kazandırıldı.
 
 ![](ekran.gif)eklendi
